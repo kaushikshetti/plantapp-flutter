@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\kshet\Desktop\plant app\android\app\src\main\AndroidManifest.xml:8:5-46:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\9306b7b2fa78c068317dc4ad801362c1\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\9306b7b2fa78c068317dc4ad801362c1\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\302389a8a46ecc535a76d16c96f99dde\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\302389a8a46ecc535a76d16c96f99dde\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\63e586abdab9fe1e8e19dfae13331bbc\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\63e586abdab9fe1e8e19dfae13331bbc\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\302389a8a46ecc535a76d16c96f99dde\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from C:\Users\kshet\Desktop\plant app\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\kshet\Desktop\plant app\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from C:\Users\kshet\Desktop\plant app\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from C:\Users\kshet\Desktop\plant app\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from C:\Users\kshet\Desktop\plant app\android\app\src\main\AndroidManifest.xml:1:1-47:12
+MERGED from C:\Users\kshet\Desktop\plant app\android\app\src\main\AndroidManifest.xml:1:1-47:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\4cd1d041a57443abb6b29346f5700086\window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\9306b7b2fa78c068317dc4ad801362c1\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\b07bef2a0809e574081a9fd197325356\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\c409421217c7d1b0d08ea33c2beae68a\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\c3200948e243939cd6d32741b63ef976\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\55c44da0a32be700aab0a8273eb35d5a\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\239db372e4dcb3beccda06eb65a3b2bf\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\302389a8a46ecc535a76d16c96f99dde\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\e58a8e3162580fdf304b0bbacd32a48d\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\eb0bafb3359b2b7e27b3e8c48bcb4f29\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\21d93a96da474858efbbcab6ce9d4be8\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\de93711a31be769341a808cb736d4c08\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\940fe834bdbe5109788b9a112afbaa24\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\2b92f9fcafcf0a2b17f0fccc915fda31\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\63e586abdab9fe1e8e19dfae13331bbc\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\fdbc33e36ef32bec9d467584e348ad9e\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\1e9885662d58c205015e45bd7246ffd2\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\kshet\Desktop\plant app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\kshet\Desktop\plant app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\kshet\Desktop\plant app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\kshet\Desktop\plant app\android\app\src\main\AndroidManifest.xml:2:5-36
+		INJECTED from C:\Users\kshet\Desktop\plant app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kshet\Desktop\plant app\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\kshet\Desktop\plant app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kshet\Desktop\plant app\android\app\src\main\AndroidManifest.xml:1:1-47:12
+		INJECTED from C:\Users\kshet\Desktop\plant app\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\kshet\Desktop\plant app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kshet\Desktop\plant app\android\app\src\main\AndroidManifest.xml:1:1-47:12
+		INJECTED from C:\Users\kshet\Desktop\plant app\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kshet\Desktop\plant app\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from C:\Users\kshet\Desktop\plant app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kshet\Desktop\plant app\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kshet\Desktop\plant app\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\4cd1d041a57443abb6b29346f5700086\window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\4cd1d041a57443abb6b29346f5700086\window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\9306b7b2fa78c068317dc4ad801362c1\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\9306b7b2fa78c068317dc4ad801362c1\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\b07bef2a0809e574081a9fd197325356\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\b07bef2a0809e574081a9fd197325356\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\c409421217c7d1b0d08ea33c2beae68a\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\c409421217c7d1b0d08ea33c2beae68a\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\c3200948e243939cd6d32741b63ef976\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\c3200948e243939cd6d32741b63ef976\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\55c44da0a32be700aab0a8273eb35d5a\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\55c44da0a32be700aab0a8273eb35d5a\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\239db372e4dcb3beccda06eb65a3b2bf\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\239db372e4dcb3beccda06eb65a3b2bf\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\302389a8a46ecc535a76d16c96f99dde\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\302389a8a46ecc535a76d16c96f99dde\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\e58a8e3162580fdf304b0bbacd32a48d\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\e58a8e3162580fdf304b0bbacd32a48d\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\eb0bafb3359b2b7e27b3e8c48bcb4f29\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\eb0bafb3359b2b7e27b3e8c48bcb4f29\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\21d93a96da474858efbbcab6ce9d4be8\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\21d93a96da474858efbbcab6ce9d4be8\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\de93711a31be769341a808cb736d4c08\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\de93711a31be769341a808cb736d4c08\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\940fe834bdbe5109788b9a112afbaa24\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\940fe834bdbe5109788b9a112afbaa24\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\2b92f9fcafcf0a2b17f0fccc915fda31\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\2b92f9fcafcf0a2b17f0fccc915fda31\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\63e586abdab9fe1e8e19dfae13331bbc\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\63e586abdab9fe1e8e19dfae13331bbc\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\fdbc33e36ef32bec9d467584e348ad9e\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\fdbc33e36ef32bec9d467584e348ad9e\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\1e9885662d58c205015e45bd7246ffd2\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\1e9885662d58c205015e45bd7246ffd2\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\kshet\Desktop\plant app\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\kshet\Desktop\plant app\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\kshet\Desktop\plant app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kshet\Desktop\plant app\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kshet\Desktop\plant app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kshet\Desktop\plant app\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\kshet\Desktop\plant app\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\kshet\Desktop\plant app\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\9306b7b2fa78c068317dc4ad801362c1\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\9306b7b2fa78c068317dc4ad801362c1\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\9306b7b2fa78c068317dc4ad801362c1\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\9306b7b2fa78c068317dc4ad801362c1\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\9306b7b2fa78c068317dc4ad801362c1\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kshet\.gradle\caches\transforms-2\files-2.1\9306b7b2fa78c068317dc4ad801362c1\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
